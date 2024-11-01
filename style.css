@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(70, 142, 236);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    width: 500px;
+    padding: 15px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgb(0, 0, 0, 0.363);
+}
+
+#rosto {
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 50%;
+    background-color: #BFC5CF;
+}
+
+#res {
+    text-align: center;
+}
+
+footer {
+    color: white;
+    text-align: center;
+}
